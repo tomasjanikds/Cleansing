@@ -135,7 +135,7 @@ One R script called `run_analysis.R` was created to do the following:
 5.	To create a second, independent tidy data set from the data set in previous step (step 4). The new data set will contain the average of each variable for each activity and each subject.
     + In Data dataset from previous step, data was grouped by subject and activity.
     + Mean function has been applied on all of the measurements 
-    + The output is stored in the file tidydata.csv
+    + The output is stored in the file tidydata.txt
 
 
 ### Reference: 

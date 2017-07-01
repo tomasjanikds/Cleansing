@@ -68,4 +68,4 @@ Data2 <- Data %>%
     as.data.frame()
 
 # Export the results of the tidy data set to the csv file
-write.table(Data2, file = "tidydata.csv",row.name=FALSE, sep = ",")
+write.table(Data2, file = "tidydata.txt",row.name=FALSE)
